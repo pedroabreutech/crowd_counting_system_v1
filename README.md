@@ -1,4 +1,4 @@
-# Project2_C24
+# Project - Crowd Count System
 This project focuses on crowd counting using various deep learning models and datasets. The project follows a structured approach to data collection, preprocessing, model training, and evaluation.
 
 # Problem Statement
